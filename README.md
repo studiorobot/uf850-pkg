@@ -1,1 +1,1 @@
-# uf850-pkg
+# uf850-ROS2 wrapper for AURA Project
